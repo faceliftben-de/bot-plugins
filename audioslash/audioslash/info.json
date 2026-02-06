@@ -1,0 +1,13 @@
+{
+    "author": ["hollowstrawberry"],
+    "min_bot_version": "3.5.0",
+    "min_python_version": [3,9,0],
+    "description": "Audio Modul in Form von Slash-Befehlen mit YouTube-Suche und Playlist-Verwaltung mit über 100 Befehlen.",
+    "hidden": false,
+    "install_msg": "🎵 __**AudioSlash**__ ```Cog installiert. Anleitung:\n1. Lade es mit [p]load audioslash\n2. Es gibt ~10 Slash-Befehle in diesem Cog. Du kannst sie alle aktivieren mit [p]slash enablecog audioslash\n3. Synchronisiere die Slash-Befehle mit [p]slash sync\n4. Du musst Discord eventuell neu starten, um die neuen Befehle zu sehen.```",
+    "required_cogs": {},
+    "requirements": ["yt-dlp"],
+    "short": "Audio Modul in Form von Slash-Befehlen mit YouTube-Suche und Playlist-Verwaltung.",
+    "end_user_data_statement": "Dieses Modul speichert keine persönlichen Daten.",
+    "tags": ["crab", "voice", "audio", "music", "slash", "interaction"]
+}
